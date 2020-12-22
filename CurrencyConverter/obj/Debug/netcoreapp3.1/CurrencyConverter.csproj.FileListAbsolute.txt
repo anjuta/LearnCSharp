@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/bin/Debug/netcoreapp3.1/CurrencyConverter.deps.json
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/bin/Debug/netcoreapp3.1/CurrencyConverter.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/bin/Debug/netcoreapp3.1/CurrencyConverter.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/bin/Debug/netcoreapp3.1/CurrencyConverter.dll
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/bin/Debug/netcoreapp3.1/CurrencyConverter.pdb
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.dll
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.pdb
+/Users/ann/Documents/Projects/Learn_C#/CurrencyConverter/obj/Debug/netcoreapp3.1/CurrencyConverter.genruntimeconfig.cache

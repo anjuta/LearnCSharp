@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/bin/Debug/netcoreapp3.1/ParityCheck.deps.json
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/bin/Debug/netcoreapp3.1/ParityCheck.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/bin/Debug/netcoreapp3.1/ParityCheck.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/bin/Debug/netcoreapp3.1/ParityCheck.dll
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/bin/Debug/netcoreapp3.1/ParityCheck.pdb
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/obj/Debug/netcoreapp3.1/ParityCheck.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/obj/Debug/netcoreapp3.1/ParityCheck.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/obj/Debug/netcoreapp3.1/ParityCheck.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/obj/Debug/netcoreapp3.1/ParityCheck.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/obj/Debug/netcoreapp3.1/ParityCheck.dll
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/obj/Debug/netcoreapp3.1/ParityCheck.pdb
+/Users/ann/Documents/Projects/Learn_C#/ParityCheck/obj/Debug/netcoreapp3.1/ParityCheck.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/bin/Debug/netcoreapp3.1/SumMultiplication.deps.json
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/bin/Debug/netcoreapp3.1/SumMultiplication.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/bin/Debug/netcoreapp3.1/SumMultiplication.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/bin/Debug/netcoreapp3.1/SumMultiplication.dll
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/bin/Debug/netcoreapp3.1/SumMultiplication.pdb
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/obj/Debug/netcoreapp3.1/SumMultiplication.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/obj/Debug/netcoreapp3.1/SumMultiplication.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/obj/Debug/netcoreapp3.1/SumMultiplication.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/obj/Debug/netcoreapp3.1/SumMultiplication.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/obj/Debug/netcoreapp3.1/SumMultiplication.dll
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/obj/Debug/netcoreapp3.1/SumMultiplication.pdb
+/Users/ann/Documents/Projects/Learn_C#/SumMultiplication/obj/Debug/netcoreapp3.1/SumMultiplication.genruntimeconfig.cache

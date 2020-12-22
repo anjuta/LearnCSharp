@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/bin/Debug/netcoreapp3.1/Learn_C#.deps.json
+/Users/ann/Documents/Projects/Learn_C#/bin/Debug/netcoreapp3.1/Learn_C#.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/bin/Debug/netcoreapp3.1/Learn_C#.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/bin/Debug/netcoreapp3.1/Learn_C#.dll
+/Users/ann/Documents/Projects/Learn_C#/bin/Debug/netcoreapp3.1/Learn_C#.pdb
+/Users/ann/Documents/Projects/Learn_C#/obj/Debug/netcoreapp3.1/Learn_C#.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/obj/Debug/netcoreapp3.1/Learn_C#.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/obj/Debug/netcoreapp3.1/Learn_C#.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/obj/Debug/netcoreapp3.1/Learn_C#.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/obj/Debug/netcoreapp3.1/Learn_C#.dll
+/Users/ann/Documents/Projects/Learn_C#/obj/Debug/netcoreapp3.1/Learn_C#.pdb
+/Users/ann/Documents/Projects/Learn_C#/obj/Debug/netcoreapp3.1/Learn_C#.genruntimeconfig.cache

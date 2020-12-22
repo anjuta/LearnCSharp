@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/Average/bin/Debug/netcoreapp3.1/Average.deps.json
+/Users/ann/Documents/Projects/Learn_C#/Average/bin/Debug/netcoreapp3.1/Average.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/Average/bin/Debug/netcoreapp3.1/Average.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/Average/bin/Debug/netcoreapp3.1/Average.dll
+/Users/ann/Documents/Projects/Learn_C#/Average/bin/Debug/netcoreapp3.1/Average.pdb
+/Users/ann/Documents/Projects/Learn_C#/Average/obj/Debug/netcoreapp3.1/Average.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/Average/obj/Debug/netcoreapp3.1/Average.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/Average/obj/Debug/netcoreapp3.1/Average.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/Average/obj/Debug/netcoreapp3.1/Average.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/Average/obj/Debug/netcoreapp3.1/Average.dll
+/Users/ann/Documents/Projects/Learn_C#/Average/obj/Debug/netcoreapp3.1/Average.pdb
+/Users/ann/Documents/Projects/Learn_C#/Average/obj/Debug/netcoreapp3.1/Average.genruntimeconfig.cache

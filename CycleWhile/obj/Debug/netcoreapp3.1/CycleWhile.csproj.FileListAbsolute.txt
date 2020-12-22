@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/bin/Debug/netcoreapp3.1/CycleWhile.deps.json
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/bin/Debug/netcoreapp3.1/CycleWhile.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/bin/Debug/netcoreapp3.1/CycleWhile.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/bin/Debug/netcoreapp3.1/CycleWhile.dll
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/bin/Debug/netcoreapp3.1/CycleWhile.pdb
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/obj/Debug/netcoreapp3.1/CycleWhile.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/obj/Debug/netcoreapp3.1/CycleWhile.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/obj/Debug/netcoreapp3.1/CycleWhile.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/obj/Debug/netcoreapp3.1/CycleWhile.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/obj/Debug/netcoreapp3.1/CycleWhile.dll
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/obj/Debug/netcoreapp3.1/CycleWhile.pdb
+/Users/ann/Documents/Projects/Learn_C#/CycleWhile/obj/Debug/netcoreapp3.1/CycleWhile.genruntimeconfig.cache
