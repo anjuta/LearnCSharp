@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/obj/Debug/netcoreapp3.1/ArrayFromKeyboard.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/obj/Debug/netcoreapp3.1/ArrayFromKeyboard.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/obj/Debug/netcoreapp3.1/ArrayFromKeyboard.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/obj/Debug/netcoreapp3.1/ArrayFromKeyboard.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/bin/Debug/netcoreapp3.1/ArrayFromKeyboard.deps.json
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/bin/Debug/netcoreapp3.1/ArrayFromKeyboard.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/bin/Debug/netcoreapp3.1/ArrayFromKeyboard.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/bin/Debug/netcoreapp3.1/ArrayFromKeyboard.dll
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/bin/Debug/netcoreapp3.1/ArrayFromKeyboard.pdb
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/obj/Debug/netcoreapp3.1/ArrayFromKeyboard.dll
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/obj/Debug/netcoreapp3.1/ArrayFromKeyboard.pdb
+/Users/ann/Documents/Projects/Learn_C#/ArrayFromKeyboard/obj/Debug/netcoreapp3.1/ArrayFromKeyboard.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/bin/Debug/netcoreapp3.1/ArrayReverseOrder.deps.json
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/bin/Debug/netcoreapp3.1/ArrayReverseOrder.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/bin/Debug/netcoreapp3.1/ArrayReverseOrder.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/bin/Debug/netcoreapp3.1/ArrayReverseOrder.dll
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/bin/Debug/netcoreapp3.1/ArrayReverseOrder.pdb
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/obj/Debug/netcoreapp3.1/ArrayReverseOrder.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/obj/Debug/netcoreapp3.1/ArrayReverseOrder.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/obj/Debug/netcoreapp3.1/ArrayReverseOrder.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/obj/Debug/netcoreapp3.1/ArrayReverseOrder.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/obj/Debug/netcoreapp3.1/ArrayReverseOrder.dll
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/obj/Debug/netcoreapp3.1/ArrayReverseOrder.pdb
+/Users/ann/Documents/Projects/Learn_C#/ArrayReverseOrder/obj/Debug/netcoreapp3.1/ArrayReverseOrder.genruntimeconfig.cache

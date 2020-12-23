@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/bin/Debug/netcoreapp3.1/SumOfEvenNumInArray.deps.json
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/bin/Debug/netcoreapp3.1/SumOfEvenNumInArray.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/bin/Debug/netcoreapp3.1/SumOfEvenNumInArray.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/bin/Debug/netcoreapp3.1/SumOfEvenNumInArray.dll
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/bin/Debug/netcoreapp3.1/SumOfEvenNumInArray.pdb
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/obj/Debug/netcoreapp3.1/SumOfEvenNumInArray.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/obj/Debug/netcoreapp3.1/SumOfEvenNumInArray.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/obj/Debug/netcoreapp3.1/SumOfEvenNumInArray.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/obj/Debug/netcoreapp3.1/SumOfEvenNumInArray.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/obj/Debug/netcoreapp3.1/SumOfEvenNumInArray.dll
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/obj/Debug/netcoreapp3.1/SumOfEvenNumInArray.pdb
+/Users/ann/Documents/Projects/Learn_C#/SumOfEvenNumInArray/obj/Debug/netcoreapp3.1/SumOfEvenNumInArray.genruntimeconfig.cache
