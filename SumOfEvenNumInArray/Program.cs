@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace SumOfEvenNumInArray
 {
@@ -7,8 +8,6 @@ namespace SumOfEvenNumInArray
     {
         static void Main(string[] args)
         {
-            int result = 0;
-            
             Console.Write("Enter the number of elements of the array:\t");
             int elementsCount = int.Parse(Console.ReadLine());
 
@@ -20,15 +19,7 @@ namespace SumOfEvenNumInArray
                 myArray[i] = int.Parse(Console.ReadLine());
             }
 
-            for (int i = 0; i < myArray.Length; i++)
-            {
-                if (myArray[i] % 2 == 0)
-                {
-                    result += myArray[i];
-                }
-            }
-
-            Console.WriteLine("The sum of even numbers is " + result);
+            Console.WriteLine("The sum of even numbers is " + myArray.Where(i => i % 2 == 0).Sum());
         }
     }
 }

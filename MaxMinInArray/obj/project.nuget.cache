@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8xbTGMxfGyGviBi4OWEQwUoCT0jyB0FuOMcJ2Mz0uJo04HJlw2fuxW/2PVlCquu+pTb/D0ALI2xMtyH3EF+PnA==",
+  "dgSpecHash": "zvkDhM5RDuAr1YCc9zjRp+BJMdxck7HBpYosh5D6yOKTdefW20wtph4banjpbUdgCkD/ccqcs2uVgcX+95ZDfA==",
   "success": true,
-  "projectFilePath": "/Users/ann/Documents/Projects/Learn_C#/SmallestArrayNumber/SmallestArrayNumber.csproj",
+  "projectFilePath": "/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/SmallestArrayNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

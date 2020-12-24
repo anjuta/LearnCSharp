@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace ArrayReverseOrder
 {
@@ -18,11 +19,7 @@ namespace ArrayReverseOrder
                 myArray[i] = int.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine("\nArray output:");
-            for (int i = myArray.Length - 1; i >= 0; i--) 
-            {
-                Console.WriteLine(myArray[i]);
-            }
+            Console.WriteLine(String.Join(",", myArray.Reverse()));
         }
     }
 }

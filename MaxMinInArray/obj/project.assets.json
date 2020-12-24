@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ann/Documents/Projects/Learn_C#/SmallestArrayNumber/SmallestArrayNumber.csproj",
+      "projectUniqueName": "/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/SmallestArrayNumber.csproj",
       "projectName": "SmallestArrayNumber",
-      "projectPath": "/Users/ann/Documents/Projects/Learn_C#/SmallestArrayNumber/SmallestArrayNumber.csproj",
+      "projectPath": "/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/SmallestArrayNumber.csproj",
       "packagesPath": "/Users/ann/.nuget/packages/",
-      "outputPath": "/Users/ann/Documents/Projects/Learn_C#/SmallestArrayNumber/obj/",
+      "outputPath": "/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

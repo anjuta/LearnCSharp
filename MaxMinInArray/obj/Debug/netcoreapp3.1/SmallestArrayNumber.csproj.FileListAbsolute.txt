@@ -10,3 +10,15 @@
 /Users/ann/Documents/Projects/Learn_C#/SmallestArrayNumber/obj/Debug/netcoreapp3.1/SmallestArrayNumber.dll
 /Users/ann/Documents/Projects/Learn_C#/SmallestArrayNumber/obj/Debug/netcoreapp3.1/SmallestArrayNumber.pdb
 /Users/ann/Documents/Projects/Learn_C#/SmallestArrayNumber/obj/Debug/netcoreapp3.1/SmallestArrayNumber.genruntimeconfig.cache
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/bin/Debug/netcoreapp3.1/SmallestArrayNumber.deps.json
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/bin/Debug/netcoreapp3.1/SmallestArrayNumber.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/bin/Debug/netcoreapp3.1/SmallestArrayNumber.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/bin/Debug/netcoreapp3.1/SmallestArrayNumber.dll
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/bin/Debug/netcoreapp3.1/SmallestArrayNumber.pdb
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/obj/Debug/netcoreapp3.1/SmallestArrayNumber.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/obj/Debug/netcoreapp3.1/SmallestArrayNumber.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/obj/Debug/netcoreapp3.1/SmallestArrayNumber.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/obj/Debug/netcoreapp3.1/SmallestArrayNumber.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/obj/Debug/netcoreapp3.1/SmallestArrayNumber.dll
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/obj/Debug/netcoreapp3.1/SmallestArrayNumber.pdb
+/Users/ann/Documents/Projects/Learn_C#/MaxMinInArray/obj/Debug/netcoreapp3.1/SmallestArrayNumber.genruntimeconfig.cache

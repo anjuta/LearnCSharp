@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace SmallestArrayNumber
 {
@@ -18,28 +19,9 @@ namespace SmallestArrayNumber
                 myArray[i] = int.Parse(Console.ReadLine());
             }
 
-            int minValue = myArray[0];
+            Console.WriteLine("The smallest value in the array is " + myArray.Min());
 
-            for (int i = 1; i < myArray.Length; i++)
-            {
-                if (myArray[i] < minValue)
-                {
-                    minValue = myArray[i];
-                }
-            }
-
-            int maxValue = myArray[0];
-
-            for (int i = 1; i < myArray.Length; i++)
-            {
-                if (myArray[i] > maxValue)
-                {
-                    maxValue = myArray[i];
-                }
-            }
-            Console.WriteLine("The smallest value in the array is " + minValue);
-
-            Console.WriteLine("The highest value in the array is " + maxValue);
+            Console.WriteLine("The highest value in the array is " + myArray.Max());
         }
     }
 }
