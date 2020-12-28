@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/bin/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.deps.json
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/bin/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/bin/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/bin/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.dll
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/bin/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.pdb
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/obj/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/obj/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/obj/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/obj/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/obj/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.dll
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/obj/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.pdb
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArrayKeyBoard/obj/Debug/netcoreapp3.1/2DemensionalArrayKeyBoard.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/bin/Debug/netcoreapp3.1/2DemensionalArray.deps.json
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/bin/Debug/netcoreapp3.1/2DemensionalArray.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/bin/Debug/netcoreapp3.1/2DemensionalArray.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/bin/Debug/netcoreapp3.1/2DemensionalArray.dll
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/bin/Debug/netcoreapp3.1/2DemensionalArray.pdb
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/obj/Debug/netcoreapp3.1/2DemensionalArray.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/obj/Debug/netcoreapp3.1/2DemensionalArray.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/obj/Debug/netcoreapp3.1/2DemensionalArray.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/obj/Debug/netcoreapp3.1/2DemensionalArray.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/obj/Debug/netcoreapp3.1/2DemensionalArray.dll
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/obj/Debug/netcoreapp3.1/2DemensionalArray.pdb
+/Users/ann/Documents/Projects/Learn_C#/2DemensionalArray/obj/Debug/netcoreapp3.1/2DemensionalArray.genruntimeconfig.cache
