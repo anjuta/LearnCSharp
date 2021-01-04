@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/bin/Debug/netcoreapp3.1/MethodPrintLine.deps.json
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/bin/Debug/netcoreapp3.1/MethodPrintLine.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/bin/Debug/netcoreapp3.1/MethodPrintLine.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/bin/Debug/netcoreapp3.1/MethodPrintLine.dll
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/bin/Debug/netcoreapp3.1/MethodPrintLine.pdb
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/obj/Debug/netcoreapp3.1/MethodPrintLine.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/obj/Debug/netcoreapp3.1/MethodPrintLine.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/obj/Debug/netcoreapp3.1/MethodPrintLine.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/obj/Debug/netcoreapp3.1/MethodPrintLine.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/obj/Debug/netcoreapp3.1/MethodPrintLine.dll
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/obj/Debug/netcoreapp3.1/MethodPrintLine.pdb
+/Users/ann/Documents/Projects/Learn_C#/MethodPrintLine/obj/Debug/netcoreapp3.1/MethodPrintLine.genruntimeconfig.cache

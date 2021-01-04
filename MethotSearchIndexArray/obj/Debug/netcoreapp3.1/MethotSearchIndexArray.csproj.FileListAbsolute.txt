@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/bin/Debug/netcoreapp3.1/MethotSearchIndexArray.deps.json
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/bin/Debug/netcoreapp3.1/MethotSearchIndexArray.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/bin/Debug/netcoreapp3.1/MethotSearchIndexArray.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/bin/Debug/netcoreapp3.1/MethotSearchIndexArray.dll
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/bin/Debug/netcoreapp3.1/MethotSearchIndexArray.pdb
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/obj/Debug/netcoreapp3.1/MethotSearchIndexArray.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/obj/Debug/netcoreapp3.1/MethotSearchIndexArray.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/obj/Debug/netcoreapp3.1/MethotSearchIndexArray.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/obj/Debug/netcoreapp3.1/MethotSearchIndexArray.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/obj/Debug/netcoreapp3.1/MethotSearchIndexArray.dll
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/obj/Debug/netcoreapp3.1/MethotSearchIndexArray.pdb
+/Users/ann/Documents/Projects/Learn_C#/MethotSearchIndexArray/obj/Debug/netcoreapp3.1/MethotSearchIndexArray.genruntimeconfig.cache
