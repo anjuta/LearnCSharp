@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Calculator
 {
@@ -24,8 +24,6 @@ namespace Calculator
                     Console.WriteLine("Failed to convert the number to string");
                     continue;
                 }
-
-                
 
                 Console.WriteLine("Select the action: '+', '-', '*', '/' ");
                 action = Console.ReadLine();
