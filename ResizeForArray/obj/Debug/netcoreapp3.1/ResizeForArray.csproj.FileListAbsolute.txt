@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/bin/Debug/netcoreapp3.1/ResizeForArray.deps.json
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/bin/Debug/netcoreapp3.1/ResizeForArray.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/bin/Debug/netcoreapp3.1/ResizeForArray.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/bin/Debug/netcoreapp3.1/ResizeForArray.dll
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/bin/Debug/netcoreapp3.1/ResizeForArray.pdb
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/obj/Debug/netcoreapp3.1/ResizeForArray.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/obj/Debug/netcoreapp3.1/ResizeForArray.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/obj/Debug/netcoreapp3.1/ResizeForArray.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/obj/Debug/netcoreapp3.1/ResizeForArray.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/obj/Debug/netcoreapp3.1/ResizeForArray.dll
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/obj/Debug/netcoreapp3.1/ResizeForArray.pdb
+/Users/ann/Documents/Projects/Learn_C#/ResizeForArray/obj/Debug/netcoreapp3.1/ResizeForArray.genruntimeconfig.cache

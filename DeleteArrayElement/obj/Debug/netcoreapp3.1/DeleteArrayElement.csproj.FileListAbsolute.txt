@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/bin/Debug/netcoreapp3.1/DeleteArrayElement.deps.json
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/bin/Debug/netcoreapp3.1/DeleteArrayElement.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/bin/Debug/netcoreapp3.1/DeleteArrayElement.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/bin/Debug/netcoreapp3.1/DeleteArrayElement.dll
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/bin/Debug/netcoreapp3.1/DeleteArrayElement.pdb
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/obj/Debug/netcoreapp3.1/DeleteArrayElement.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/obj/Debug/netcoreapp3.1/DeleteArrayElement.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/obj/Debug/netcoreapp3.1/DeleteArrayElement.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/obj/Debug/netcoreapp3.1/DeleteArrayElement.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/obj/Debug/netcoreapp3.1/DeleteArrayElement.dll
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/obj/Debug/netcoreapp3.1/DeleteArrayElement.pdb
+/Users/ann/Documents/Projects/Learn_C#/DeleteArrayElement/obj/Debug/netcoreapp3.1/DeleteArrayElement.genruntimeconfig.cache

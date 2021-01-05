@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/bin/Debug/netcoreapp3.1/AddArrayElement.deps.json
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/bin/Debug/netcoreapp3.1/AddArrayElement.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/bin/Debug/netcoreapp3.1/AddArrayElement.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/bin/Debug/netcoreapp3.1/AddArrayElement.dll
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/bin/Debug/netcoreapp3.1/AddArrayElement.pdb
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/obj/Debug/netcoreapp3.1/AddArrayElement.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/obj/Debug/netcoreapp3.1/AddArrayElement.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/obj/Debug/netcoreapp3.1/AddArrayElement.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/obj/Debug/netcoreapp3.1/AddArrayElement.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/obj/Debug/netcoreapp3.1/AddArrayElement.dll
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/obj/Debug/netcoreapp3.1/AddArrayElement.pdb
+/Users/ann/Documents/Projects/Learn_C#/AddArrayElement/obj/Debug/netcoreapp3.1/AddArrayElement.genruntimeconfig.cache
