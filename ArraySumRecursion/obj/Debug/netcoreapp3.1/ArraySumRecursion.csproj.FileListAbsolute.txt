@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/bin/Debug/netcoreapp3.1/ArraySumRecursion.deps.json
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/bin/Debug/netcoreapp3.1/ArraySumRecursion.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/bin/Debug/netcoreapp3.1/ArraySumRecursion.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/bin/Debug/netcoreapp3.1/ArraySumRecursion.dll
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/bin/Debug/netcoreapp3.1/ArraySumRecursion.pdb
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/obj/Debug/netcoreapp3.1/ArraySumRecursion.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/obj/Debug/netcoreapp3.1/ArraySumRecursion.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/obj/Debug/netcoreapp3.1/ArraySumRecursion.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/obj/Debug/netcoreapp3.1/ArraySumRecursion.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/obj/Debug/netcoreapp3.1/ArraySumRecursion.dll
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/obj/Debug/netcoreapp3.1/ArraySumRecursion.pdb
+/Users/ann/Documents/Projects/Learn_C#/ArraySumRecursion/obj/Debug/netcoreapp3.1/ArraySumRecursion.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/obj/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.csprojAssemblyReference.cache
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/obj/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.AssemblyInfoInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/obj/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.AssemblyInfo.cs
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/obj/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.csproj.CoreCompileInputs.cache
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/bin/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.deps.json
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/bin/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.runtimeconfig.json
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/bin/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.runtimeconfig.dev.json
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/bin/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.dll
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/bin/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.pdb
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/obj/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.dll
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/obj/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.pdb
+/Users/ann/Documents/Projects/Learn_C#/SumOfDigitsOfNumRecursion/obj/Debug/netcoreapp3.1/SumOfDigitsOfNumRecursion.genruntimeconfig.cache
